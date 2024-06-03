@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652097028848",
+    "project_id": "chatapp-9c0a9",
+    "storage_bucket": "chatapp-9c0a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652097028848:android:06091d6f9c8923721f3835",
+        "android_client_info": {
+          "package_name": "com.xidne.proyectochatapp_kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA0cas97IgCZ_1_yuQ_9Ej71U-2Zjw9Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

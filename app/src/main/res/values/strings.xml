@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Happy Health</string>
+
+    <string name="loginWelcome">Hi, \nWelcome back</string>
+    <string name="registerWelcome">Create \nAccount</string>
+
+    <string name="btnLogin">Inicia sesión</string>
+    <string name="btnRegister">Regístrate ahora</string>
+
+    <string name="forgotPassword">Forgot password?</string>
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+
+
+    <string name="doctor_fragment">Doctores</string>
+    <string name="home_fragment">Inicio</string>
+    <string name="calendar_fragment">Mis citas</string>
+    <string name="profile_fragment">Mi perfil</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Inicio"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:title="Mis citas"
+        android:id="@+id/calendar"
+        android:icon="@drawable/ic_calendar"
+        />
+
+    <item android:title="Doctores"
+        android:id="@+id/doctor"
+        android:icon="@drawable/ic_doctor"
+        />
+
+    <item android:title="Mi perfil"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_userbar"/>
+
+</menu>
